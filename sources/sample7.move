@@ -1,4 +1,4 @@
-address myDev_addr {
+/*address myDev_addr {
 
     module PriceOracle {
 
@@ -26,4 +26,4 @@ address myDev_addr {
             calculate_swap();
         }
     }
-}
+}*/
