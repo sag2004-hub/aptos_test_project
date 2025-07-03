@@ -1,4 +1,4 @@
-module myDev_addr::Sample6 {
+/*module myDev_addr::Sample6 {
     fun bitwise_or(a: u64, b:u64): u64 {
         return a|b
     }
@@ -39,4 +39,4 @@ module myDev_addr::Sample6 {
         let result = bitshift_right(7,2);
         print(&result);
     }
-}
+}*/
