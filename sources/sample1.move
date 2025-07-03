@@ -1,4 +1,4 @@
-module myDev_addr::sample1{
+/*module myDev_addr::sample1{
     use std::debug::print;
     use std::string::{String,utf8};
     const ID: u64=100;
@@ -16,4 +16,4 @@ module myDev_addr::sample1{
         let id_value=set_value();
        // print(&id_value);
     }
-}
+}*/

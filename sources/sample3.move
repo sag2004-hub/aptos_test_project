@@ -1,4 +1,4 @@
-address myDev_addr{
+/*address myDev_addr{
     module one{
         friend myDev_addr::two;
         friend myDev_addr::three;
@@ -26,4 +26,4 @@ address myDev_addr{
             print(&result);
         }
     }
-}
+}*/
