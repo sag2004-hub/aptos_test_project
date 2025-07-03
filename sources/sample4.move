@@ -1,4 +1,4 @@
-module myDev_addr::Sample4{
+/*module myDev_addr::Sample4{
     use std::debug::print;
     use std::string::{String, utf8};
 
@@ -63,4 +63,4 @@ module myDev_addr::Sample4{
     fun test_assert(){
         sample_assert_error(utf8(b"myDev"));
     }
-}
+}*/
